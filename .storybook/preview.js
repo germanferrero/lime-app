@@ -11,7 +11,7 @@ import { AppContext } from 'utils/app.context';
 import { SubHeader } from 'components/app';
 
 const boarData = {
-	hostname: 'ql-anaymarcos',
+	hostname: 'ql-berta',
 	release: {
 		description: 'LibreRouterOs 1.4'
 	},
